@@ -1,0 +1,3 @@
+sender_email = "YOUR_EMAIL@gmail.com"
+sender_password = "YOUR_PASSWORD"
+receiver_email = "THEIR_EMAIL@gmail.com"
